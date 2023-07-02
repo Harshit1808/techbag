@@ -5,7 +5,8 @@ __To re-create the Backend__
 3. add following fields:
 
     PORT= `/// PORT number (2000) /// `
-     //MySQL Database details
+
+    __MySQL Database details__
 
     USER=`/// Your MySql Username ///`
 
@@ -13,10 +14,12 @@ __To re-create the Backend__
 
     DATABASENAME= `/// Your MySQL Database name ///`
 
-    //Create table having {name email address payment} columns//
+    __Create table having {name email address payment} columns__
+
     TABLENAME= `/// Your MySQL Tablename ///`
 
-    //AWS SES Details
+    __AWS SES Details__
+
     REGION= `/// Your AWS region ///`
 
     ACCESSKEYID= `/// Your AWS Accesskeyid`
